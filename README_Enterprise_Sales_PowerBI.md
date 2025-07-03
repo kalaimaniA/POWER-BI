@@ -1,0 +1,105 @@
+
+# 📊 Enterprise Sales Analysis Dashboard – Power BI
+
+This project presents an **interactive Power BI dashboard** built to analyze and visualize sales performance across different regions, product categories, and timeframes for an enterprise-level organization.
+
+---
+
+## 🚀 Project Overview
+
+The **Enterprise Sales Analysis Dashboard** helps stakeholders gain insights into:
+- Total Orders and Customer Counts
+- Profit Trends and Margins
+- Sales Distribution by Region and Product Category
+- Interactive Filtering and Drilldowns for In-depth Analysis
+
+---
+
+## 📌 Key Features
+
+✅ KPI Cards:  
+• Total Orders  
+• Total Customers  
+• Total Profit  
+• Profit Margin %
+
+✅ Charts:  
+• Line chart for Profit by Month  
+• Bar chart for Sales by Product Category  
+• Donut chart for Sales by Region
+
+✅ Interactive Elements:  
+• Slicers (Region, Product, Date)  
+• Tooltips for dynamic data insights  
+• Drillthrough pages for deep dives  
+• Buttons & bookmarks for navigation and resetting filters
+
+---
+
+## 🧾 Dataset
+
+The data used in this dashboard includes:
+- Customer and Order Details  
+- Regional and Product Category Information  
+- Monthly Profit and Sales Metrics  
+
+Data has been cleaned and transformed using **Power Query**, with proper data modeling and relationships.
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI Desktop**
+- **Power Query Editor**
+- **DAX (Data Analysis Expressions)**
+- **Microsoft Excel / CSV files** for data sources
+
+---
+
+## 📷 Screenshots
+
+![Dashboard Preview](./images/sales-dashboard-preview.png)
+
+---
+
+## 📁 Folder Structure
+
+```
+├── Dataset/
+│   └── sales_data.csv
+├── PBIX_File/
+│   └── enterprise_sales_dashboard.pbix
+├── Images/
+│   └── sales-dashboard-preview.png
+├── README.md
+```
+
+---
+
+## 📈 Insights Delivered
+
+- North Dakota and California are top-performing regions.
+- Electronics and Home categories dominate sales volume.
+- Profit margin trends fluctuate seasonally.
+- Clear increase in sales during Q2 and Q4 periods.
+
+---
+
+## 📬 Contact
+
+For queries or collaboration:
+
+**Kalai Mani**  
+✉️ [your-email@example.com]  
+🔗 [LinkedIn](https://linkedin.com/in/yourname)  
+📦 GitHub: [@your-github-handle](https://github.com/your-github-handle)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+⭐ **Star this repository** if you find it helpful!
